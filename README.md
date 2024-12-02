@@ -1,6 +1,8 @@
 # STAT342-Final
 
-By Yanting Hu, Liuyixin Shao, and Shuxin Zhang
+By Yanting Hu (https://github.com/YantingHuMn), Liuyixin Shao (https://github.com/FXF48-Mila), and Shuxin Zhang (https://github.com/shuxin-xin)
+
+This is a Public Showcase Repository. See the original repository with the actual commit history: https://github.com/shuxin-xin/STAT342-Final
 
 ## Introduction
 
